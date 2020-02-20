@@ -5,10 +5,10 @@ un projet pour apprendre à utiliser GIT.
 
 ## Historique
 
-*v1.0 début du projet
+*v1.0 début du projet, ajout du ficher index.html 
 
 ## crédits
 
-*Webforce3
-*Nuemricall
-*;)
+* Webforce3
+* Nuemricall
+* ;)
