@@ -7,8 +7,8 @@ un projet pour apprendre à utiliser GIT.
 
 * v1.0 début du projet, ajout du ficher index.html 
 
-## crédits
+## Crédits
 
 * Webforce3
-* Numericall
+* Numericall:organisme de formation basé à Esch Belval
 * ;)
